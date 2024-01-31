@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TsuErh
-- 👀 I’m interested in machine learning, NLP, image processing
-- 🌱 I’m currently learning data science
-- 📫 How to reach me tsuerh621@gmail.com
+- 👋 Hi, welcome to Jewel's Github
+- 👀 I’m interested in machine learning, NLP, image processing, Healthcare data analytics
+- 🌱 I’m currently a data analyst lead
+- 📫 How to reach me tsuerh623@gmail.com
 
 <!---
 TsuErh/TsuErh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
